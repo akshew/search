@@ -40,5 +40,12 @@ This is a minimalist search engine project built using HTML, CSS, and JavaScript
 5. **Open in browser:**
    Open `http://localhost:3000` in your browser.
 
+## Screenshots
+
+### Landing Page
+![Landing Page](./screenshot/text.png)
+
+### Chat Interface
+![Chat Interface](./screenshot/interface.png)
 
 
